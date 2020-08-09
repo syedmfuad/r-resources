@@ -1,9 +1,9 @@
 # r-resources
-Awesome Exploratory Data Analysis (EDA)
+Data wrangling
 
-| Name | Lang | Notes |
+| Name | Notes | Notes |
 | -- | -- | -- |
-| [xda](https://github.com/ujjwalkarn/xda) | R | |
+| [R for Data Science](https://r4ds.had.co.nz/transform.html) | Apart from data wrangling, also deals with model building and graphing | |
 | [ExPanDR](https://github.com/joachim-gassen/ExPanDaR) | R | https://joachim-gassen.github.io/2019/12/explore-your-data-with-expand/ |
 | [awesome_eda](https://github.com/hurshd0/awesome_eda) | Python |  | 
 | [naniar](https://naniar.njtierney.com/) | R | |
