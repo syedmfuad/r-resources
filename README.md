@@ -1,13 +1,12 @@
 # r-resources
-Data wrangling
 
 | Name | Notes | Notes |
 | -- | -- | -- |
 | [R for Data Science](https://r4ds.had.co.nz/transform.html) | Apart from data wrangling, also deals with model building and graphing | |
-| [ExPanDR](https://github.com/joachim-gassen/ExPanDaR) | R | https://joachim-gassen.github.io/2019/12/explore-your-data-with-expand/ |
-| [awesome_eda](https://github.com/hurshd0/awesome_eda) | Python |  | 
-| [naniar](https://naniar.njtierney.com/) | R | |
-| [DataExplorer](http://boxuancui.github.io/DataExplorer/) | R | |
+| [Databases using R](https://db.rstudio.com/) | Work with databases in R |  |
+| [R Cookbook](https://rc2e.com/) | Python |  | 
+| [Applied Causal Analysis (with R)](https://bookdown.org/paul/applied-causal-analysis/) | ATT, ATE, SUTVA and tools for causal analysis (DiD, matching, RDD) | |
+| [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/) | Replicates models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2 | |
 | [pointblank](https://github.com/rich-iannone/pointblank) | R | "Validation of local and remote data tables" |
 | [visdat](https://github.com/ropensci/visdat) | R | |
 | [validate](https://github.com/data-cleaning/validate) | R | "Professional data validation for the R environment" |
