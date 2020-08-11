@@ -24,6 +24,7 @@
 | Name | Notes |
 | -- | -- |
 | [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) | What's wrong with setwd() and rm(list = ls()) |
+| [Best practice to handle out-of-memory data](https://community.rstudio.com/t/best-practice-to-handle-out-of-memory-data/734) | Techniques, workflows, and best practices to handle out-of-memory data in R |
 
 ## r-packages
 
