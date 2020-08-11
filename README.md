@@ -2,9 +2,10 @@
 
 | Name | Notes | 
 | -- | -- | 
-| [R for Data Science](https://r4ds.had.co.nz/transform.html) | Apart from data wrangling, also deals with model building and graphing | 
+| [R for Data Science](https://r4ds.had.co.nz/transform.html) | Basic operations, data wrangling, model building and graphing | 
 | [Databases using R](https://db.rstudio.com/) | Work with databases in R |  
 | [R Cookbook](https://rc2e.com/) | Comprehensive R review covering most basic operations, general stats, graphics, time series analysis and markdown |  
+| [Data science for economists](https://github.com/syedmfuad/lectures) | Another comprehensive R review covering version control, web scrapping, spatial analysis, and other tools like Docker, Google Compute Engine, SQL and Spark |
 | [Applied Causal Analysis (with R)](https://bookdown.org/paul/applied-causal-analysis/) | Introduces concepts such as ATT, ATE, SUTVA and tools for causal analysis (DiD, matching, RDD) | 
 | [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/) | Replicates models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2 |
 | [Happy Git and GitHub for the useR](https://happygitwithr.com/) | Working with Git, GitHub in the shell and RStudio |
@@ -16,6 +17,7 @@
 | [Advanced R](https://adv-r.hadley.nz/) | Advanced concepts in R useful for understanding why R works the way it does |
 | [Text Mining with R](https://www.tidytextmining.com/index.html) | Analyzing text-heavy and unstructured data |
 | [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) | Data visualization |
+| [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) | Touches a wide range of topics including text analysis, Shiny, Markdown, webscrapping, geospatial visualization, exploratory data analysis and Spark |
 
 ## r-good-practices
 
@@ -23,6 +25,13 @@
 | -- | -- |
 | [Project-oriented workflow](https://www.tidyverse.org/blog/2017/12/workflow-vs-script/) | What's wrong with setwd() and rm(list = ls()) |
 
-## Other Lists
+## r-packages
 
-https://github.com/mstaniak/autoEDA-resources
+ Name | Notes | 
+| -- | -- | 
+| [Awesome Exploratory Data Analysis (EDA)](https://github.com/xiaodaigh/awesome-eda) | R and python packages for exploratory data analysis | 
+| [tidycensus](https://walker-data.com/tidycensus/articles/pums-data.html) | R interface to the decennial US Census, American Community Survey APIs and the US Census Bureau's geographic boundary files |
+| [disk.frame](https://github.com/xiaodaigh/disk.frame) | Helps with dealing with large out-of-memory data |
+| [dbplyr](https://cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html) | Database backend for [dplyr](https://dplyr.tidyverse.org/) that allows you to perform operations in remote database tables |
+| [MonetDBLite](https://github.com/MonetDB/MonetDBLite-R) | SQL database backend with [dplyr](https://dplyr.tidyverse.org/) commands (not available in CRAN so requires compilers) |
+| [sergeant](https://github.com/hrbrmstr/sergeant) | Apache Drill backend with [dplyr](https://dplyr.tidyverse.org/) |
