@@ -12,7 +12,10 @@
 | [Geocomputation with R](https://geocompr.robinlovelace.net/) | Geographic data analysis, visualization and modeling | 
 | [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) | Comprehensive guide to R Markdown (document format) | 
 | [Mastering Spark with R](https://therinspark.com/) | Apache Spark with R in large scale data science | 
-
+| [Forecasting: Principles and Practice](https://otexts.com/fpp2/) | Concepts of and introduction to forecasting methods |
+| [Advanced R](https://adv-r.hadley.nz/) | Advanced concepts in R useful for understanding why R works the way it does |
+| [Text Mining with R](https://www.tidytextmining.com/index.html) | Analyzing text-heavy and unstructured data |
+| [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) | Data visualization |
 
 ## Resource
 
