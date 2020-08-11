@@ -18,6 +18,7 @@
 | [Text Mining with R](https://www.tidytextmining.com/index.html) | Analyzing text-heavy and unstructured data |
 | [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) | Data visualization |
 | [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) | Touches a wide range of topics including text analysis, Shiny, Markdown, webscrapping, geospatial visualization, exploratory data analysis and Spark |
+| [Congressional Data in R](http://congressdata.joshuamccrain.com/index.html) | Overview of Congessional datasets and R packages for joining/merging, cleaning, visualization, and modeling |
 
 ## r-good-practices
 
