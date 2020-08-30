@@ -1,5 +1,5 @@
 # r-resources
-## The inspiration for this came from [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) and [awesome-R](https://github.com/qinwf/awesome-R), both of which are curated lists of r packages and tools. However, these lists can be very long, of broad scope and often intimidating to new users. This is why I've listed these open source r learning resources that I've found useful.
+#### The inspiration for this came from [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) and [awesome-R](https://github.com/qinwf/awesome-R), both of which are curated lists of r packages and tools. However, these lists can be very long, of broad scope and often intimidating to new users. This is why I've listed the following open source r learning resources that I've found useful and think do a reasonable job of introducing an r novice to the functionalities of the software.
 
 | Name | Notes | 
 | -- | -- | 
