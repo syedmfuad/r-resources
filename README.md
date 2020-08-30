@@ -1,4 +1,5 @@
 # r-resources
+## The inspiration for this came from [awesome-ggplot2](https://github.com/erikgahner/awesome-ggplot2) and [awesome-R](https://github.com/qinwf/awesome-R), both of which are curated lists of r packages and tools. However, these lists can be very long, of broad scope and often intimidating to new users. This is why I've listed these open source r learning resources that I've found useful.
 
 | Name | Notes | 
 | -- | -- | 
@@ -8,6 +9,7 @@
 | [Data science for economists](https://github.com/syedmfuad/lectures) | Another comprehensive R review covering version control, web scrapping, spatial analysis, and other tools like Docker, Google Compute Engine, SQL and Spark |
 | [Applied Causal Analysis (with R)](https://bookdown.org/paul/applied-causal-analysis/) | Introduces concepts such as ATT, ATE, SUTVA and tools for causal analysis (DiD, matching, RDD) | 
 | [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/) | Replicates models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2 | [Finmetrics](http://faculty.baruch.cuny.edu/smanzan/FINMETRICS/_book/index.html) | Quantitative analysis of financial data |
+| [Tidy Portfoliomanagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/) | Quantitative analysis of financial data and portfolio management |
 | [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) | Machine learning in R covering mathematical and statistical operations, text analytics, networks, discriminant analysis, clustering, neural networks, finance models | 
 | [Happy Git and GitHub for the useR](https://happygitwithr.com/) | Working with Git, GitHub in the shell and RStudio |
 | [STAT 545](https://stat545.com/) | Intro to data wrangling and visualization, also deals with making packages, web scrapping and Shiny |
@@ -19,6 +21,7 @@
 | [Text Mining with R](https://www.tidytextmining.com/index.html) | Analyzing text-heavy and unstructured data |
 | [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) | Data visualization |
 | [Computing for the Social Sciences](https://cfss.uchicago.edu/notes/) | Covers a wide range of topics including text analysis, Shiny, Markdown, webscrapping, geospatial visualization, exploratory data analysis and Spark |
+| [Interactive web-based data visualization with R, plotly, and shiny](https://plotly-r.com/index.html) | Teaches practical skills for creating interactive and dynamic web graphics for data analysis from R |
 | [Congressional Data in R](http://congressdata.joshuamccrain.com/index.html) | Overview of Congessional datasets and R packages for joining/merging, cleaning, visualization, and modeling |
 
 ## r-good-practices
