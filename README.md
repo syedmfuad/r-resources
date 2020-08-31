@@ -8,7 +8,8 @@
 | [R Cookbook](https://rc2e.com/) | Comprehensive R review covering most basic operations, general stats, graphics, time series analysis and markdown |  
 | [Data science for economists](https://github.com/syedmfuad/lectures) | Another comprehensive R review covering version control, web scrapping, spatial analysis, and other tools like Docker, Google Compute Engine, SQL and Spark |
 | [Applied Causal Analysis (with R)](https://bookdown.org/paul/applied-causal-analysis/) | Introduces concepts such as ATT, ATE, SUTVA and tools for causal analysis (DiD, matching, RDD) | 
-| [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/) | Replicates models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2 | [Finmetrics](http://faculty.baruch.cuny.edu/smanzan/FINMETRICS/_book/index.html) | Quantitative analysis of financial data |
+| [Statistical Rethinking 2 with Stan and R](https://vincentarelbundock.github.io/rethinking2/) | Replicates models in Richard McElreath's Statistical Rethinking (2nd ed.) book using Stan, R, rstan, tidybayes, and ggplot2 | 
+| [Finmetrics](http://faculty.baruch.cuny.edu/smanzan/FINMETRICS/_book/index.html) | Quantitative analysis of financial data |
 | [Tidy Portfoliomanagement in R](https://bookdown.org/sstoeckl/Tidy_Portfoliomanagement_in_R/) | Quantitative analysis of financial data and portfolio management |
 | [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook/) | Machine learning in R covering mathematical and statistical operations, text analytics, networks, discriminant analysis, clustering, neural networks, finance models | 
 | [Happy Git and GitHub for the useR](https://happygitwithr.com/) | Working with Git, GitHub in the shell and RStudio |
