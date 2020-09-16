@@ -39,6 +39,7 @@
 
  Name | Notes | 
 | -- | -- | 
+| [swirl](https://github.com/NickCH-K/econometrics) [Other swirl courses](http://swirlstats.com/scn/title.html)| Repository for introductiory econometrics course | 
 | [Awesome Exploratory Data Analysis (EDA)](https://github.com/xiaodaigh/awesome-eda) | R and python packages for exploratory data analysis | 
 | [Reactable](https://glin.github.io/reactable/) | Interactive data tables in R |
 | [tidycensus](https://walker-data.com/tidycensus/articles/pums-data.html) | R interface to the decennial US Census, American Community Survey APIs and the US Census Bureau's geographic boundary files |
