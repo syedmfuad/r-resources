@@ -45,3 +45,10 @@
 | [dbplyr](https://cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html) | Database backend for [dplyr](https://dplyr.tidyverse.org/) that allows you to perform operations in remote database tables |
 | [MonetDBLite](https://github.com/MonetDB/MonetDBLite-R) | SQL database backend with [dplyr](https://dplyr.tidyverse.org/) commands (not available in CRAN so requires compilers) |
 | [sergeant](https://github.com/hrbrmstr/sergeant) | Apache Drill backend with [dplyr](https://dplyr.tidyverse.org/) |
+
+## miscellaneous
+
+ Name | Notes | 
+| -- | -- | 
+| [Derivatives research](http://markets.cboe.com/education/research/) | Resources and research to expand derivatives knowledge |
+| [Open courses](http://markets.cboe.com/education/research/) | Courses on machine learning, deep learning and artificial intelligence |
